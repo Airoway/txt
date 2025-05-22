@@ -48,5 +48,3 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
-家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
-东方影视,http://z.b.bkpcp.top/m.php?id=shys
