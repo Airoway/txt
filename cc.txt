@@ -1,5 +1,4 @@
 央视,#genre#
-CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-1,http://148.135.93.213/live.php?id=CCTV1
 CCTV-2,http://148.135.93.213/live.php?id=CCTV2
 CCTV-3,http://148.135.93.213/live.php?id=CCTV3
