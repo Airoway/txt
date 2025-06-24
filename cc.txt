@@ -179,6 +179,12 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 贺岁,http://yezilive.jxpan.vip:35455/huya/11601971
 喜剧,http://yezilive.jxpan.vip:35455/huya/11352877
 港片,http://yezilive.jxpan.vip:35455/huya/11602043
+唐探,http://yezilive.jxpan.vip:35455/huya/20969137
+亮剑,http://yezilive.jxpan.vip:35455/huya/30080238
+繁花,http://yezilive.jxpan.vip:35455/huya/21059580
+征服,http://yezilive.jxpan.vip:35455/huya/11601970
+渗透,http://yezilive.jxpan.vip:35455/huya/30080244
+风筝,http://yezilive.jxpan.vip:35455/huya/30080225
 功夫片,http://yezilive.jxpan.vip:35455/huya/11352941
 古惑仔,http://yezilive.jxpan.vip:35455/huya/11336719
 周星驰,http://yezilive.jxpan.vip:35455/huya/11342412
@@ -192,12 +198,6 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 斯坦森,http://yezilive.jxpan.vip:35455/huya/21059588
 甄子丹,http://yezilive.jxpan.vip:35455/huya/11352935
 无间道,http://yezilive.jxpan.vip:35455/huya/30585957
-唐探系列,http://yezilive.jxpan.vip:35455/huya/20969137
-亮剑,http://yezilive.jxpan.vip:35455/huya/30080238
-繁花,http://yezilive.jxpan.vip:35455/huya/21059580
-征服,http://yezilive.jxpan.vip:35455/huya/11601970
-渗透,http://yezilive.jxpan.vip:35455/huya/30080244
-风筝,http://yezilive.jxpan.vip:35455/huya/30080225
 洗冤录,http://yezilive.jxpan.vip:35455/huya/29465851
 老农民,http://yezilive.jxpan.vip:35455/huya/29580971
 白鹿原,http://yezilive.jxpan.vip:35455/huya/30311504
