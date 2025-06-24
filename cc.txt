@@ -197,11 +197,9 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 刘德华,http://yezilive.jxpan.vip:35455/huya/11342424
 斯坦森,http://yezilive.jxpan.vip:35455/huya/21059588
 甄子丹,http://yezilive.jxpan.vip:35455/huya/11352935
-无间道,http://yezilive.jxpan.vip:35455/huya/30585957
 洗冤录,http://yezilive.jxpan.vip:35455/huya/29465851
 老农民,http://yezilive.jxpan.vip:35455/huya/29580971
 白鹿原,http://yezilive.jxpan.vip:35455/huya/30311504
-朱元璋,http://yezilive.jxpan.vip:35455/huya/29982665
 水浒传,http://yezilive.jxpan.vip:35455/huya/26355860
 花千骨,http://yezilive.jxpan.vip:35455/huya/26355839
 庆余年,http://yezilive.jxpan.vip:35455/huya/11352960
@@ -212,7 +210,6 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 鬼吹灯,http://yezilive.jxpan.vip:35455/huya/29835716
 大秦赋,http://yezilive.jxpan.vip:35455/huya/23903130
 西游记,http://yezilive.jxpan.vip:35455/huya/26355861
-庆余年,http://yezilive.jxpan.vip:35455/huya/11352960
 芈月传,http://yezilive.jxpan.vip:35455/huya/11352975
 好先生,http://yezilive.jxpan.vip:35455/huya/11602088
 九阴真经,http://yezilive.jxpan.vip:35455/huya/23824164
