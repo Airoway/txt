@@ -214,7 +214,6 @@ CCTV-17,video://
 宁夏卫视,video://https://www.xuexi.cn/xxqg.html?id=782bc32aad614b6c9c078fd7bea95488
 西藏卫视,video://https://www.xuexi.cn/xxqg.html?id=c52bd0a9ac294559841fa39d28d2c195
 新疆卫视,video://https://www.xuexi.cn/xxqg.html?id=95b30ad2b3c14b32ac7f915769d080bb
-兵团卫视,video://https://www.btzx.com.cn/special/bofang/btzxjmd/index.shtml
 吉林卫视,video://https://www.xuexi.cn/xxqg.html?id=0bb934949fe549e9be4ea3ff519eaec4
 辽宁卫视,video://https://www.xuexi.cn/xxqg.html?id=196d1fb7186845c8ab06945beb60f428
 黑龙江卫视,video://https://www.xuexi.cn/xxqg.html?id=c77741c71cbb4f61bc9876826e267b51
