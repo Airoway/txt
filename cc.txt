@@ -87,7 +87,6 @@ CCTV-17,http://go.bkpcp.top/mg/cctv17
 都挺好,http://cfss.cc/cdn/hy/21059594.m3u8
 大秦赋,http://cfss.cc/cdn/hy/23903130.m3u8
 西游记,http://cfss.cc/cdn/hy/26355861.m3u8
-芈月传,http://cfss.cc/cdn/hy/11352975.m3u8
 好先生,http://cfss.cc/cdn/hy/11602088.m3u8
 小李飞刀,http://cfss.cc/cdn/hy/11342417.m3u8
 龙门镖局,http://cfss.cc/cdn/hy/11352874.m3u8
