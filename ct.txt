@@ -65,8 +65,6 @@ CCTV-17,udp://239.112.205.211:5140
 西部电影,udp://239.111.205.102:5140
 西安新闻,udp://239.111.205.27:5140
 洛川融媒,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225908/index.m3u8
-西安钟楼,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
-西安大雁塔,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
 
 数字,#genre#
 游戏风云,udp://239.111.205.183:5140
@@ -157,13 +155,3 @@ CCTV-4K,udp://239.111.205.38:5140
 我的团长我的团,https://live.ottiptv.cc/huya/11352910
 特种兵之火凤凰,https://live.ottiptv.cc/huya/29982636
 阳光的快乐生活,https://live.ottiptv.cc/huya/11602085
-
-广播,#genre#
-陕西新闻广播,http://ls.qingting.fm/live/1600.m3u8
-陕西交通广播,http://ls.qingting.fm/live/1601.m3u8
-陕西都市广播,http://ls.qingting.fm/live/1609.m3u8
-陕西音乐广播,http://ls.qingting.fm/live/4873.m3u8
-西安交通广播,http://ls.qingting.fm/live/1611.m3u8
-西安新闻广播,http://ls.qingting.fm/live/1610.m3u8
-西安资讯广播,http://ls.qingting.fm/live/1613.m3u8
-西安音乐广播,http://ls.qingting.fm/live/1612.m3u8
