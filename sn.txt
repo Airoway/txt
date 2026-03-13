@@ -91,6 +91,10 @@ CCTV-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227140/index.m3u8
 第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/index.m3u8
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225744/index.m3u8
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
+中国教育1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
+中国教育2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+中国教育3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+中国教育4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
 影视,#genre#
 成龙,https://live.ottiptv.cc/huya/11342386
